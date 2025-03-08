@@ -3,7 +3,7 @@
 ## 🚀 About This Project
 
 A simple Job Listing Web Application using Laravel. The purpose of this project is to showcase the benefits of using the Laravel framework to build
-the frontedn and backend mechanisms for a secure and efficient Web Application.
+the frontend and backend mechanisms for a secure and efficient Web Application.
 
 ## 📋 Prerequisites
 
